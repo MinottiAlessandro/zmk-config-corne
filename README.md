@@ -8,3 +8,7 @@
 
 ### UPPER LAYER
 ![UPPER LAYER](doc/img/upper_layer.jpg)
+
+---
+
+Visit [zmk documentation](https://zmk.dev/docs) to get more info on the available configurations.
